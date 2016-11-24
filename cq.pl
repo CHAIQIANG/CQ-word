@@ -1,4 +1,4 @@
 #!/usr/bin/perl -w
-my $DNA = 'ACGTA';
-print my $DNA;
+$DNA = 'ACGTA';
+print $DNA;
 exit;
