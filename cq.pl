@@ -2,3 +2,4 @@
 $DNA = 'ACGTA';
 print $DNA;
 exit;
+shauhwqu
