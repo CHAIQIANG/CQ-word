@@ -28,3 +28,4 @@ print STDERR "Bad codon \"$codon\"!!\n";
 exit;
 }
 }
+1;
