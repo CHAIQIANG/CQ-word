@@ -2,7 +2,7 @@
 #DNA to protein
 use strict;
 use warnings;
-use p8-e1;
+use cq;
 my $dna = 'CGACGTCTTCGTACGGGACTAGCTCGTGTCGGTCGC';
 my $protein ='';
 my $codon;
